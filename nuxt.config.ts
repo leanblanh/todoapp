@@ -8,7 +8,7 @@ export default defineNuxtConfig({
 		config: {
 			stylistic: {
 				semi: true,
-				quotes: 'double',
+				quotes: "double",
 				commaDangle: "always-multiline",
 				indent: "tab",
 			},

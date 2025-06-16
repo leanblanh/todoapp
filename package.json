@@ -15,12 +15,14 @@
     "@nuxt/eslint": "^1.4.1",
     "@nuxt/fonts": "^0.11.4",
     "@picocss/pico": "^2.1.1",
+    "@prisma/client": "^6.9.0",
     "eslint": "^9.29.0",
     "nuxt": "^3.17.5",
     "vue": "^3.5.16",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
+    "prisma": "^6.9.0",
     "typescript": "^5.8.3"
   }
 }
