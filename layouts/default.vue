@@ -14,6 +14,6 @@
 
 .button-container{
 	display: flex;
-	justify-content: end;	
+	justify-content: end;
 }
 </style>
